@@ -1,2 +1,1 @@
-# rua
-nothing to impossible
+# Css + HTML only
